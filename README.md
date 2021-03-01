@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 Automating election results
 ## Overview of Election Audit
 The overview of this election audit was to create a new way of analyzing voting data for a congressional election in Colorado. The goal was to create a Python script to determine the winner of the election that can also be used in other districts and for the senate elections. The files used are listed below.  
