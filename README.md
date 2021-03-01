@@ -6,17 +6,16 @@ Election data: ![election_results](Resources/election_results.csv)
 Python script: ![PyPoll.py](Challenge/PyPoll_Challenge.py)  
 Analysis: ![election_analysis](Analysis/election_analysis.txt)  
 ## Election Audit Results
-*How many votes were cast in this congressional election? 369,711  
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.  
+* Total number of votes cast in the election: 369,711  
+* County breakdown and percentages:   
   * Jefferson: 10.5% (38,855)  
   * Denver: 82.8% (306,055)  
   * Arapahoe: 6.7% (24,801) 
-* Which county had the largest number of votes? Denver  
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.  
+* County with most votes: Denver  
+* Breakdown of votes and percentages by candidate: 
   * Charles Casper Stockham: 23.0% (85,213)  
   * Diana DeGette: 73.8% (272,892)  
   * Raymon Anthony Doane: 3.1% (11,606)  
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?  
-Diana DeGette: 73.8% (272,892)  
+* Winning candidate, percentage, and number of votes: Diana DeGette: 73.8% (272,892)  
 ## Election Audit Summary
 This script can be used in any election with the modification of some variable names but with the format and logic of the code remaining the same. For example, the trackers can be renamed to represent any variable that you are interested in tracking. 
