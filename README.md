@@ -18,4 +18,7 @@ Analysis: ![election_analysis](Analysis/election_analysis.txt)
   * Raymon Anthony Doane: 3.1% (11,606)  
 * Winning candidate, percentage, and number of votes: Diana DeGette: 73.8% (272,892)  
 ## Election Audit Summary
-This script can be used in any election with the modification of some variable names but with the format and logic of the code remaining the same. For example, the 
+This script can be used in any election with the modification of some variable names but with the format and logic of the code remaining the same. For example, the inital naming of the list and dictionary used to store the number of votes for each county can be changed to hold different values, like the number of votes for each county in a different district. This is done by creating a list to be paired with data that will be stored in a dictrionary. The code is shown here:   
+![assignment]Images/assignment.png  
+Another example of code that can be changed to fit another election is printing the results and saving them to another file. The code can be modified by changing the variable names but keeping the format the same. The code for this election is shown here:  
+![printing_results](Images/printing_results.png)
